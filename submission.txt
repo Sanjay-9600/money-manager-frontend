@@ -8,7 +8,7 @@ Live Backend URL : https://money-manager-backend-1-51q8.onrender.com/
 
 Last Commit Hash (Frontend) : f34600aed0349abf7475c3db5905e2122027ccd4
 
-Last Commit Hash (Backend) : 40a56c6364104e7746734faa8b9d0fabacb74ff0
+Last Commit Hash (Backend) :b29ae2c45ec7f92a3f79552af2899b24d1b14a6e
 
 Live web : https://money-manager-frontend-eight.vercel.app/
 
