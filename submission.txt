@@ -1,6 +1,6 @@
 Github repository URL(backend) : https://github.com/arshhad45/money-manager-backend
 
-Github repository URL(Frontend) : https://github.com/arshhad45/money-manager-frontend
+Github repository URL(Frontend) : https://github.com/Sanjay-9600/money-manager-frontend
 
 Live Frontend URL: https://money-manager-frontend-eight.vercel.app/
 
