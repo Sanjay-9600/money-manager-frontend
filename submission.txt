@@ -1,4 +1,4 @@
-Github repository URL(backend) : https://github.com/arshhad45/money-manager-backend
+Github repository URL(backend) : https://github.com/Sanjay-9600/money-manager-backend
 
 Github repository URL(Frontend) : https://github.com/Sanjay-9600/money-manager-frontend
 
