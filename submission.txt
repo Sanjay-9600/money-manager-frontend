@@ -12,4 +12,4 @@ Last Commit Hash (Backend) :b29ae2c45ec7f92a3f79552af2899b24d1b14a6e
 
 Live web : https://money-manager-frontend-eight.vercel.app/
 
-video link : https://drive.google.com/file/d/1j6z2Tq_RCn66uAd08bsrl7uilGt1kpHo/view?usp=sharing
+video link : https://drive.google.com/file/d/1aQGAhBjiURWginUP_5DwW_7RNNb5rgeo/view?usp=drive_link
